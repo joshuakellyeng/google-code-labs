@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coda Pizza</string>
+
+    <string name="placement_none">None</string>
+    <string name="placement_left">Left Half</string>
+    <string name="placement_right">Right Half</string>
+    <string name="placement_all">Whole Pizza</string>
+
+    <string name="topping_basil">Basil</string>
+    <string name="topping_mushroom">Mushrooms</string>
+    <string name="topping_olive">Basil</string>
+    <string name="topping_peppers">Peppers</string>
+    <string name="topping_pepperoni">Pepperoni</string>
+    <string name="topping_pineapple">Pineapple</string>
+
+
+
+</resources>
